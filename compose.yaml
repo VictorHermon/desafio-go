@@ -1,0 +1,5 @@
+services:
+  desafio-go:
+    container_name: desafio-go
+    image: victorhermon/desafio-go
+    build: .
